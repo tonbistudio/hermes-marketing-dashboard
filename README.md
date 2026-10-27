@@ -44,7 +44,7 @@ Needs Hermes 0.22.5 or later.
 1. Put this folder in your Hermes plugins folder as `marketing-dashboard`:
 
    ```bash
-   git clone <this repo> ~/.hermes/plugins/marketing-dashboard
+   git clone https://github.com/tonbistudio/hermes-marketing-dashboard ~/.hermes/plugins/marketing-dashboard
    ```
 
    (Or a profile's own `plugins/` folder to scope it to that profile.)
