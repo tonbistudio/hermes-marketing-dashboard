@@ -1,0 +1,5 @@
+name: marketing-dashboard
+version: "1.0.0"
+description: "Read-only Hermes Desktop dashboard for a marketing package: campaign spend and pacing, funnel, daily delivery, breakdowns, approvals and monthly economics."
+author: Agent Wikis
+kind: backend

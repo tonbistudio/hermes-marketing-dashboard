@@ -1,0 +1,7 @@
+{
+  "name": "marketing-dashboard",
+  "label": "Marketing",
+  "description": "Read-only marketing dashboard: spend and pacing, funnel, daily delivery, approvals and economics.",
+  "version": "1.0.0",
+  "api": "plugin_api.py"
+}
